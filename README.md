@@ -37,3 +37,6 @@ python test_oneshot.py --exp exp1 --ckpt $TARGET_MODEL_PATH$
 ```
 
 ```$TARGET_MODEL_PATH$``` is path for adapted target domain model.
+
+### Testing for real images
+Will be updated layer
