@@ -9,6 +9,7 @@ $ conda create -n oneshotCLIP python=3.6
 $ conda install --yes -c pytorch pytorch=1.7.1 torchvision cudatoolkit=11.0
 $ pip install ftfy regex tqdm
 $ conda install -c anaconda git
+$ conda install -c conda-forge packaging
 $ pip install git+https://github.com/openai/CLIP.git
 ```
 
