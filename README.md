@@ -26,7 +26,7 @@ python train_oneshot.py --exp exp1 --data_path $DATA_PATH$ --ckpt $SRC_MODEL_PAT
 
 ```$SRC_MODEL_PATH$``` is a path for source domain pre-trained model. 
 
-Default: ```./checkpoint/stylegan2-ffhq-config-f.pt```
+Default: ```./pretrained_model/stylegan2-ffhq-config-f.pt```
 
 
 
