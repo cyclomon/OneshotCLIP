@@ -15,7 +15,7 @@ $ pip install git+https://github.com/openai/CLIP.git
 
 Before training, please download the pre-trained models on large datasets:
 
-LINK: FFHQ
+LINK: [FFHQ](https://drive.google.com/file/d/1nS5fqO5XLwB4-VjR0Ma059dgrKB9eyjb/view?usp=sharing)
 
 ### Training 
 To train the model, run
@@ -41,6 +41,12 @@ python test_oneshot.py --exp exp1 --ckpt $TARGET_MODEL_PATH$ --ckpt_source $SOUR
 ```$TARGET_MODEL_PATH$``` is path for adapted target domain model.
 
 ```$SOURCE_MODEL_PATH$``` is path for source domain model. Default: ```./pretrained_model/stylegan2-ffhq-config-f.pt```
+
+For testing, we provide several adapted models
+
+
+[LINK](https://drive.google.com/file/d/1drwdkcJMJFdX760qTSHH0ReMCLIM7-jQ/view?usp=sharing)
+
 
 ### Testing for real images
 Will be updated layer
