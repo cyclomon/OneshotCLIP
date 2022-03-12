@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python test_sample.py --ckpt ./checkpoints/exp1/000700.pt --ckpt_source ./pretrained_model/stylegan2-ffhq-config-f.pt --exp exp1
