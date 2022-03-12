@@ -35,10 +35,12 @@ Default: ```./pretrained_model/stylegan2-ffhq-config-f.pt```
 ### Testing
 To test the model with adapted generator,
 ```
-python test_oneshot.py --exp exp1 --ckpt $TARGET_MODEL_PATH$
+python test_oneshot.py --exp exp1 --ckpt $TARGET_MODEL_PATH$ --ckpt_source $SOURCE_MODEL_PATH$
 ```
 
 ```$TARGET_MODEL_PATH$``` is path for adapted target domain model.
+
+```$SOURCE_MODEL_PATH$``` is path for source domain model. Default: ```./pretrained_model/stylegan2-ffhq-config-f.pt```
 
 ### Testing for real images
 Will be updated layer
