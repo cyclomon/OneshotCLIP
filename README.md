@@ -29,6 +29,7 @@ python train_oneshot.py --exp exp1 --data_path $DATA_PATH$ --ckpt $SRC_MODEL_PAT
 
 Default: ```./pretrained_model/stylegan2-ffhq-config-f.pt```
 
+--exp is for checkpoint directory name
 
 
 ### Testing
