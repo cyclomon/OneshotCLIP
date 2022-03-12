@@ -44,8 +44,7 @@ python test_oneshot.py --exp exp1 --ckpt $TARGET_MODEL_PATH$ --ckpt_source $SOUR
 
 For testing, we provide several adapted models
 
-
-[LINK](https://drive.google.com/file/d/1drwdkcJMJFdX760qTSHH0ReMCLIM7-jQ/view?usp=sharing)
+[LINK](https://drive.google.com/drive/folders/1svLJjuuK-yCCJ7Xq9l4Dy4gSuzplK_7i?usp=sharing)
 
 
 ### Testing for real images
