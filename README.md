@@ -31,6 +31,7 @@ Default: ```./pretrained_model/stylegan2-ffhq-config-f.pt```
 
 --exp is for checkpoint directory name
 
+For human face dataset training, download portrait dataset in [LINK](https://github.com/mahmoudnafifi/HistoGAN)
 
 ### Testing
 To test the model with adapted generator,
