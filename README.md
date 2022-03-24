@@ -49,4 +49,4 @@ For testing, we provide several adapted models
 
 
 ### Testing for real images
-Will be updated layer
+For testing on real images, we provide demo on Google Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Qqp3gRYArnY4pY6Am_aI9l_EOwXgxf9j?usp=sharing).
