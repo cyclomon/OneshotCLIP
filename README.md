@@ -1,5 +1,5 @@
 # OneshotCLIP
-## Official Source code of "One-Shot Adaptation of GAN in Just One CLIP"
+## Official Source code of "One-Shot Adaptation of GAN in Just One CLIP" accepted to Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
 
 ### Environment
 Pytorch 1.7.1, Python 3.6
